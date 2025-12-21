@@ -16,7 +16,7 @@ My research primarily focuses on developing artificial intelligence algorithms f
 Selected publications
 ======
 (†equal contribution; *corresponding authors)
-1. Han Xu†, Taoyong Cui†, Chenyu Tang†, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang*, **Mao Su**\*, Evidential deep learning for interatomic potentials. *Nature Communications* 2025. [link](https://doi.org/10.1038/s41467-025-67663-y)
+1. Han Xu†, Taoyong Cui†, Chenyu Tang†, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang\*, **Mao Su**\*, Evidential deep learning for interatomic potentials. *Nature Communications* 2025. [link](https://doi.org/10.1038/s41467-025-67663-y)
 2. Taoyong Cui†, Chenyu Tang†, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, **Mao Su**\*, Shufei Zhang\*, Online test-time adaptation for better generalization of interatomic potentials to out-of-distribution data, *Nature Communications*, 2025, 16: 1891 [link](https://www.nature.com/articles/s41467-025-57101-4)
 3. Taoyong Cui†, Chenyu Tang†, **Mao Su**\*, Shufei Zhang\*, Yuqiang Li, Lei Bai, Yuhan Dong, Xingao Gong, Wanli Ouyang, Geometry-enhanced Pretraining on Interatomic Potentials, *Nature Machine Intelligence*, 2024, 6: 428-436 [link](https://www.nature.com/articles/s42256-024-00818-6)
 4. **Mao Su**, Jihui Yang, Hongjun Xiang, Xingao Gong\*, Efficient determination of the Hamiltonian and electronic properties using graph neural network with complete local coordinates, *Machine Learning: Science and Technology*, 2023, 4: 035010 [link](https://iopscience.iop.org/article/10.1088/2632-2153/accb26)
