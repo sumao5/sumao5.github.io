@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Mao Su (苏茂)"
 author_profile: true
 redirect_from: 
   - /about/
