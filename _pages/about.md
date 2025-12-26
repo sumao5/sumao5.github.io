@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at Shanghai AI Laboratory. I received my doctorate in theoretical physics from the Institute of Theoretical Physics, Chinese Academy of Sciences in 2020. In the meantime, I also served as a visiting scholar at the Pacific Northwest National Laboratory from 2015 to 2017. Following the completion of my doctoral degree, I joined Fudan University for postdoctoral research. I joined the Shanghai Artificial Intelligence Laboratory in 2022. 
+I am currently a research scientist at Shanghai Artificial Intelligence Laboratory. I received my doctorate in theoretical physics from Institute of Theoretical Physics, Chinese Academy of Sciences in 2020. In the meantime, I also served as a visiting scholar at Pacific Northwest National Laboratory from 2015 to 2017. Following the completion of my doctoral degree, I joined Fudan University for postdoctoral research. I joined Shanghai Artificial Intelligence Laboratory in 2022. 
 
 Research
 ======
